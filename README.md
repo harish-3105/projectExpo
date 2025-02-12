@@ -12,13 +12,13 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-*Streamlit
-*os
-*pillow
-*image
-*gemeni-genai
-*pandas
-*
+* Streamlit
+* os
+* pillow
+* image
+* gemeni-genai
+* pandas
+
 
 ### Installing
 
@@ -33,19 +33,14 @@ An in-depth paragraph about your project and overview of use.
 streamlit run projectExpo.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dharshini K  
-ex. [@Dharshuk]
+* [Dharshini](https://github.com/dharshuk)
+* [Sowbarnika](https://github.com/Sowbarnika06)
+* [Harish](https://github.com/Harish)
 
 ## Version History
 
