@@ -11,7 +11,7 @@ from PIL import Image
 #sample_file_2 = PIL.Image.open('withMarksBothTable.png')
 user_input=""
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyDfWc6N20t1uUayDWEjHae1c75428eyqIU")
+genai.configure(api_key="your_api")
 # Choose a Gemini model.
 model = genai.GenerativeModel(model_name="gemini-1.5-pro-latest")
 #prompt2 = "just return the alpha numeric REGISTER NUMBER"
